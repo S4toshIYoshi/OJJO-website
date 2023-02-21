@@ -1256,6 +1256,9 @@ header {
     line-height: 150%;
     color: #333333;
 }
+.footer__mobile-drop {
+    display: none;
+}
 @media (max-width: 828px) {
     .footer-container {
         flex-direction: column;
